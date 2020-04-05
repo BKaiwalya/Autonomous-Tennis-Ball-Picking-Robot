@@ -16,7 +16,7 @@
 
 - Poster: [Poster_Autonomous Tennis Ball Picking Robot.pdf](https://github.com/BKaiwalya/Autonomous-Tennis-Ball-Picking-Robot/files/4433629/TBVICPOSFINAl_STG2.pdf)
 - Paper: [Paper_Autonomous Tennis Ball Picking Robot.pdf](https://github.com/BKaiwalya/Autonomous-Tennis-Ball-Picking-Robot/files/4433637/TBVIC_Paper.pdf)
-
+-Video: [Video_Autonomous Tennis Ball Picking Robot](https://www.youtube.com/watch?v=EXw_W_rBGLw&feature=youtu.be)
 **Demonstration**
 <p align="center">
     <img src="https://user-images.githubusercontent.com/63189206/78499133-37c4fd80-774f-11ea-8d09-500c4e03415a.jpg" width="230" height="180" />
@@ -35,4 +35,4 @@
   <img src="https://user-images.githubusercontent.com/63189206/78499323-49f36b80-7750-11ea-8a8c-bb0c288156ec.JPG" width="230" height="180" />
 </p>
 
-Video: [Video_Autonomous Tennis Ball Picking Robot](https://www.youtube.com/watch?v=EXw_W_rBGLw&feature=youtu.be)
+
